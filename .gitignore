@@ -1,0 +1,8 @@
+.env
+composer.lock
+*.asc
+*.cache
+*.phar
+coverage/
+site/
+vendor/
